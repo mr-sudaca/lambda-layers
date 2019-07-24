@@ -1,0 +1,3 @@
+- pg gem version 1.1.4
+- Compiled with using docker image from https://github.com/lambci/docker-lambda
+- Installation instructions: Compress in a zip file, then create a new layer version with it.
