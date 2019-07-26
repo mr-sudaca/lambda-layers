@@ -1,0 +1,3 @@
+- redis gem version 4.1.2
+- Compiled with using docker image from https://github.com/lambci/docker-lambda
+- Installation instructions: Compress in a zip file, then create a new layer version with it.
